@@ -1,2 +1,2 @@
 # ext-lite
-An extreme lite version MVC framework, base on Servlet. Only for teaching available
+An extreme lite version MVC framework, based on Servlet. Only for teaching available
